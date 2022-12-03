@@ -9,4 +9,24 @@
 ## Awesome JavaScript Libraries
 
 </div>
+<ul>
+<li>Wow Js</li>
+<li>AOS</li>
+<li>PDF Js</li>
+<li>IHover</li>
+<li>Tippy Js</li>
+<li>Particle Js</li>
+<li>Type Writer</li>
+<li>Video Js</li>
+<li>Sorttable</li>
+<li>Sweet Alert 2</li>
+<li>Lodash</li>
+<li>Parallax</li>
+<li>Chart Js</li>
+<li>iziToast</li>
+<li>owl Carousel</li>
+<li>Swiper Js</li>
+<li>Client Js</li>
+</ul>
+
 </div>
