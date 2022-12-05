@@ -10,23 +10,22 @@
 
 </div>
 <ul>
-<li>Wow Js</li>
-<li>AOS</li>
-<li>PDF Js</li>
-<li>IHover</li>
-<li>Tippy Js</li>
-<li>Particle Js</li>
-<li>Type Writer</li>
-<li>Video Js</li>
-<li>Sorttable</li>
-<li>Sweet Alert 2</li>
-<li>Lodash</li>
-<li>Parallax</li>
-<li>Chart Js</li>
-<li>iziToast</li>
-<li>owl Carousel</li>
-<li>Swiper Js</li>
-<li>Client Js</li>
+  <li><a href="https://lodash.com/">🧠 Lodash</a></li>
+  <li><a href="https://clientjs.org/">🦷 Client Js</a></li>
+  <li><a href="https://wowjs.uk/">😈 Wow Js</a></li>
+  <li><a href="https://michalsnik.github.io/aos/">👼🏻 AOS</a></li>
+  <li><a href="https://mozilla.github.io/pdf.js/">🥶 PDF Js</a></li>
+  <li><a href="https://atomiks.github.io/tippyjs/">🫀 Tippy Js</a></li>
+  <li><a href="https://vincentgarreau.com/particles.js/">👷🏾‍♂️ Particle Js</a></li>
+  <li><a href="https://safi.me.uk/typewriterjs/">🐼 Type Writer</a></li>
+  <li><a href="https://videojs.com/">🌈 Video Js</a></li>
+  <li><a href="https://sortablejs.github.io/Sortable/">🍇 Sortable</a></li>
+  <li><a href="https://sweetalert2.github.io/">🚕 Sweet Alert 2</a></li>
+  <li><a href="https://matthew.wagerfield.com/parallax/">💎 Parallax</a></li>
+  <li><a href="https://www.chartjs.org/">⚽️ Chart Js</a></li>
+  <li><a href="https://izitoast.marcelodolza.com/">🧸 iziToast</a></li>
+  <li><a href="https://owlcarousel2.github.io/OwlCarousel2/">❤️‍🩹 Owl Carousel 2</a></li>
+  <li><a href="https://swiperjs.com/">🔞 Swiper Js</a></li>
+  <li><a href="https://gudh.github.io/ihover/dist/">🧀 IHover</a></li>
 </ul>
-
 </div>
