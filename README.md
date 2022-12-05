@@ -19,7 +19,7 @@
   <li><a href="https://vincentgarreau.com/particles.js/">👷🏾‍♂️ Particle Js</a></li>
   <li><a href="https://safi.me.uk/typewriterjs/">🐼 Type Writer</a></li>
   <li><a href="https://videojs.com/">🌈 Video Js</a></li>
-  <li><a href="https://sortablejs.github.io/Sortable/">🍇 Sortable</a></li>
+  <li><a href="https://kryogenix.org/code/browser/sorttable/">🍇 SortTable</a></li>
   <li><a href="https://sweetalert2.github.io/">🚕 Sweet Alert 2</a></li>
   <li><a href="https://matthew.wagerfield.com/parallax/">💎 Parallax</a></li>
   <li><a href="https://www.chartjs.org/">⚽️ Chart Js</a></li>
